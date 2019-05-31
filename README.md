@@ -10,7 +10,7 @@ O desenvolvimento da Calcmedes acontece a céu aberto no GitHub, e somos gratos 
 
 ### [Código de Conduta](https://github.com/impulsonetwork/atena/blob/master/CONTRIBUTING.md#c%C3%B3digo-de-conduta)
 
-A Impulso Network adotou um Código de Conduta que esperamos que os participantes do projeto sigam. Por favor, leia [Código de Conduta](CONTRIBUTING.md) para que você possa entender quais ações serão e não serão toleradas.
+A Impulso Network adotou um Código de Conduta que esperamos que os participantes do projeto sigam. Por favor, leia [Código de Conduta](https://github.com/impulsonetwork/atena/blob/master/CONTRIBUTING.md#c%C3%B3digo-de-conduta) para que você possa entender quais ações serão e não serão toleradas.
 
 ## Comunidade
 
