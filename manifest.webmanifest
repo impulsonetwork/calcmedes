@@ -1,0 +1,14 @@
+{
+  "name": "calcmedes",
+  "short_name": "calcmedes",
+  "start_url": "./index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Calculadora open-source de valor/hora feita pela comunidade Impulso",
+  "dir": "ltr",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "icons": []
+}
