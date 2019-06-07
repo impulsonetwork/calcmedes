@@ -13,7 +13,6 @@
     "@babel/preset-react": "^7.0.0",
     "eslint": "^5.16.0",
     "eslint-plugin-react": "^7.13.0",
-    "offline-plugin": "^5.0.7",
     "parcel-bundler": "^1.12.3",
     "parcel-plugin-eslint": "^1.0.7",
     "parcel-plugin-sw-precache": "^1.1.1",
