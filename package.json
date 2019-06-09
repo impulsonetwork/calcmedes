@@ -1,0 +1,25 @@
+{
+  "name": "calcmedes",
+  "version": "0.0.1",
+  "description": "Calculadora open-source de valor/hora feita pela comunidade Impulso",
+  "repository": "https://github.com/impulsonetwork/calcmedes",
+  "author": "Impulso Network",
+  "private": false,
+  "scripts": {
+    "start": "NODE_ENV=development parcel index.html",
+    "build": "NODE_ENV=production parcel build index.html --out-dir build --public-url ./ --no-cache"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.0.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.13.0",
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-eslint": "^1.0.7",
+    "parcel-plugin-sw-precache": "^1.1.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "sw-precache": {
+    "maximumFileSizeToCacheInBytes": 10485760
+  }
+}
