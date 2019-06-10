@@ -51,6 +51,16 @@ Inicie o servidor utilizando o seguinte comando:
 > yarn start
 ```
 
+### Construindo o pacote de podução
+
+Para fazer o _build_ do projeto basta executar o seguinte comando:
+
+```sh
+> yarn build
+```
+
+Este comando criará uma pasta `build` na raiz com todos os arquivos estáticos prontos para serem servidos em produção de forma otimizada.
+
 ## Contribuindo
 
 O desenvolvimento da Calcmedes acontece a céu aberto no GitHub, e somos gratos à comunidade por contribuir da forma que cada um puder e sentir vontade :)
